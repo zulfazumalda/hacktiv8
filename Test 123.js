@@ -1,0 +1,1 @@
+console.log("zulfa zumalda",123)
